@@ -1,0 +1,9 @@
+pandas
+os
+numpy
+matplotlib.pyplot
+seaborn
+statsmodel.tsa.arima.model
+datetime
+statsmodel.tsa.holtwinters
+prophet
